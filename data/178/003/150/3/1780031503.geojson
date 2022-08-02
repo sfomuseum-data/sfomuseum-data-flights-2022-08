@@ -2,10 +2,12 @@
   "id": 1780031503,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-01",
+    "date:cessation_upper": "2022-08-01",
     "date:inception_lower": "2022-08-01",
     "date:inception_upper": "2022-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-01",
+    "edtf:cessation": "2022-08-01T06:33:00Z",
+    "edtf:inception": "2022-08-01T00:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220801-A-ANZ-9022",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30291776",
+      "swim:gufi": "KB76791100"
+    },
     "wof:country": "US",
     "wof:created": 1659456872,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1780031503,
     "wof:involves": [
+      1763588357,
+      1159283697,
+      1528104577,
       102527513,
       102530741,
-      1159285413,
-      1763588357,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1659456872,
+    "wof:lastmodified": 1659457973,
     "wof:name": "UA2480 (BOS-SFO)",
     "wof:parent_id": 1763588357,
     "wof:placetype": "custom",

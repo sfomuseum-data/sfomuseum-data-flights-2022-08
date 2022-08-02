@@ -2,10 +2,12 @@
   "id": 1780029355,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-01",
+    "date:cessation_upper": "2022-08-01",
     "date:inception_lower": "2022-08-01",
     "date:inception_upper": "2022-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-01",
+    "edtf:cessation": "2022-08-01T08:22:30-07:00",
+    "edtf:inception": "2022-08-01T19:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:date": "2022-08-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.419084999999995,
     "geom:longitude": -112.0399525,
     "iata:airline": "NZ",
+    "icao:aircraft": "B789",
     "icao:airline": "ANZ",
     "lbl:latitude": 37.618057,
     "lbl:longitude": -122.392508,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159283697,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102529249,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "ZKNZK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30425600"
+    },
     "wof:country": "US",
     "wof:created": 1659456304,
     "wof:geomhash": "4950ee3446b3bceb23f284f0ade1f651",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1780029355,
     "wof:involves": [
+      1159293215,
       102527513,
       102529249,
       1159283697,
       1763588451
     ],
-    "wof:lastmodified": 1659456304,
+    "wof:lastmodified": 1659457987,
     "wof:name": "NZ6004 (AMA-SFO)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",

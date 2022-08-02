@@ -2,10 +2,12 @@
   "id": 1780031159,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-01",
+    "date:cessation_upper": "2022-08-01",
     "date:inception_lower": "2022-08-01",
     "date:inception_upper": "2022-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-01",
+    "edtf:cessation": "2022-08-01T07:10:23Z",
+    "edtf:inception": "2022-08-01T05:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-08-01",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "30301071"
+    },
     "wof:country": "US",
     "wof:created": 1659456783,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -50,7 +55,7 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1659456783,
+    "wof:lastmodified": 1659457971,
     "wof:name": "WN9020 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
