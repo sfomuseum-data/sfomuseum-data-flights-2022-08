@@ -2,10 +2,12 @@
   "id": 1780051255,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-03",
+    "date:cessation_upper": "2022-08-03",
     "date:inception_lower": "2022-08-03",
     "date:inception_upper": "2022-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-03",
+    "edtf:cessation": "2022-08-03T07:06:24-07:00",
+    "edtf:inception": "2022-08-03T20:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-08-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.0998015,
     "geom:longitude": -119.87272250000001,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530801,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N785UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "30540592",
+      "swim:gufi": "KL57970400"
+    },
     "wof:country": "US",
     "wof:created": 1659629638,
     "wof:geomhash": "099d85224c4d6fa8685f2b490939bec5",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1780051255,
     "wof:involves": [
+      1159289985,
       102527513,
       102530801,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1659629638,
+    "wof:lastmodified": 1659630690,
     "wof:name": "UA2735 (VCV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
