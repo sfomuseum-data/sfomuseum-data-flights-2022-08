@@ -2,10 +2,12 @@
   "id": 1780060931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-05",
+    "date:cessation_upper": "2022-08-05",
     "date:inception_lower": "2022-08-04",
     "date:inception_upper": "2022-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-04",
+    "edtf:cessation": "2022-08-05T08:53:56Z",
+    "edtf:inception": "2022-08-04T23:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NH",
     "flysfo:date": "2022-08-04",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30745233"
+    },
     "wof:country": "US",
     "wof:created": 1659716417,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
@@ -86,7 +91,7 @@
       1159283875,
       1763588449
     ],
-    "wof:lastmodified": 1659716417,
+    "wof:lastmodified": 1659717160,
     "wof:name": "NH9643 (SFO-NRT)",
     "wof:parent_id": 1763588449,
     "wof:placetype": "custom",

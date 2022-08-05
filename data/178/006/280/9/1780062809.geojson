@@ -2,10 +2,12 @@
   "id": 1780062809,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-04",
+    "date:cessation_upper": "2022-08-04",
     "date:inception_lower": "2022-08-04",
     "date:inception_upper": "2022-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-04",
+    "edtf:cessation": "2022-08-04T03:03:48Z",
+    "edtf:inception": "2022-08-04T01:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-08-04",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30569715"
+    },
     "wof:country": "US",
     "wof:created": 1659716891,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -86,7 +91,7 @@
       1159285591,
       1763588191
     ],
-    "wof:lastmodified": 1659716891,
+    "wof:lastmodified": 1659717170,
     "wof:name": "WN2488 (SFO-LAS)",
     "wof:parent_id": 1763588191,
     "wof:placetype": "custom",

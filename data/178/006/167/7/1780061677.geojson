@@ -2,10 +2,12 @@
   "id": 1780061677,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-08-04",
-    "date:inception_upper": "2022-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-04",
+    "date:cessation_lower": "2022-08-05",
+    "date:cessation_upper": "2022-08-05",
+    "date:inception_lower": "2022-08-05",
+    "date:inception_upper": "2022-08-05",
+    "edtf:cessation": "2022-08-05T10:37:00Z",
+    "edtf:inception": "2022-08-05T05:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "LAN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:base_flight_id": "20220804-D-LAN-6584",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N502DX",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30576185",
+      "swim:gufi": "KO15369600"
+    },
     "wof:country": "US",
     "wof:created": 1659716605,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -90,9 +103,10 @@
       102527513,
       1159284261,
       1763588249,
-      1159285641
+      1159285641,
+      1377564297
     ],
-    "wof:lastmodified": 1659716605,
+    "wof:lastmodified": 1659717164,
     "wof:name": "DL1061 (SFO-BOS)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",

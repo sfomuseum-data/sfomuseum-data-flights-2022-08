@@ -2,10 +2,12 @@
   "id": 1780057275,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-04",
+    "date:cessation_upper": "2022-08-04",
     "date:inception_lower": "2022-08-04",
     "date:inception_upper": "2022-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-04",
+    "edtf:cessation": "2022-08-04T21:13:12Z",
+    "edtf:inception": "2022-08-04T11:18:29Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NH",
     "flysfo:date": "2022-08-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.686867,
     "geom:longitude": 9.012156999999995,
     "iata:airline": "NH",
+    "icao:aircraft": "B77W",
     "icao:airline": "ANA",
     "lbl:latitude": 37.618209,
     "lbl:longitude": -122.391665,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159283875,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102541685,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30684313"
+    },
     "wof:country": "US",
     "wof:created": 1659715475,
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
@@ -81,12 +91,13 @@
     ],
     "wof:id": 1780057275,
     "wof:involves": [
+      1159289993,
       102527513,
       102541685,
       1159283875,
       1763588449
     ],
-    "wof:lastmodified": 1659715475,
+    "wof:lastmodified": 1659717159,
     "wof:name": "NH9644 (NRT-SFO)",
     "wof:parent_id": 1763588449,
     "wof:placetype": "custom",
