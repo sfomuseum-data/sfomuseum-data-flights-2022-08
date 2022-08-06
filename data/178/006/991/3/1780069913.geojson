@@ -2,10 +2,12 @@
   "id": 1780069913,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-05",
+    "date:cessation_upper": "2022-08-05",
     "date:inception_lower": "2022-08-05",
     "date:inception_upper": "2022-08-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-05",
+    "edtf:cessation": "2022-08-05T23:14:00Z",
+    "edtf:inception": "2022-08-05T20:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102521851,
     "sfomuseum:base_flight_id": "20220805-D-AAL-7471",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N922VA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30738834"
+    },
     "wof:country": "US",
     "wof:created": 1659802919,
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1780069913,
     "wof:involves": [
+      1377564297,
       102521851,
       102527513,
       1159283813,
       1763588157,
       1159283849
     ],
-    "wof:lastmodified": 1659802919,
+    "wof:lastmodified": 1659803561,
     "wof:name": "AS534 (SFO-AUS)",
     "wof:parent_id": 1763588157,
     "wof:placetype": "custom",
