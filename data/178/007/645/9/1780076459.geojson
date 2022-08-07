@@ -2,10 +2,12 @@
   "id": 1780076459,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-06",
+    "date:cessation_upper": "2022-08-06",
     "date:inception_lower": "2022-08-06",
     "date:inception_upper": "2022-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-06",
+    "edtf:cessation": "2022-08-06T15:15:52Z",
+    "edtf:inception": "2022-08-06T13:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-08-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527363,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N497UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "30873052"
+    },
     "wof:country": "US",
     "wof:created": 1659888857,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1780076459,
     "wof:involves": [
+      1159292085,
       102527513,
       102527363,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1659888857,
+    "wof:lastmodified": 1659889873,
     "wof:name": "UA2716 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
