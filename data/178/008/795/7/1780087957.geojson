@@ -2,10 +2,12 @@
   "id": 1780087957,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-07",
+    "date:cessation_upper": "2022-08-07",
     "date:inception_lower": "2022-08-07",
     "date:inception_upper": "2022-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-07",
+    "edtf:cessation": "2022-08-07T02:40:00Z",
+    "edtf:inception": "2022-08-07T02:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102525535,
     "sfomuseum:base_flight_id": "20220807-D-ACA-4146",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30864201",
+      "swim:gufi": "KO83554700"
+    },
     "wof:country": "US",
     "wof:created": 1659976206,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1780087957,
     "wof:involves": [
-      102525535,
       102527513,
       1159285413,
       1763588329,
-      1159283597
+      1159283597,
+      1159292085,
+      102525535
     ],
-    "wof:lastmodified": 1659976206,
+    "wof:lastmodified": 1659976400,
     "wof:name": "UA2121 (SFO-RNO)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",

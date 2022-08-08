@@ -2,10 +2,12 @@
   "id": 1780083995,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-07",
+    "date:cessation_upper": "2022-08-07",
     "date:inception_lower": "2022-08-07",
     "date:inception_upper": "2022-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-07",
+    "edtf:cessation": "2022-08-07T08:29:00Z",
+    "edtf:inception": "2022-08-07T05:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2022-08-07",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "30952707"
+    },
     "wof:country": "US",
     "wof:created": 1659975146,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -50,7 +55,7 @@
       1159285227,
       -1
     ],
-    "wof:lastmodified": 1659975146,
+    "wof:lastmodified": 1659976389,
     "wof:name": "SY8723 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

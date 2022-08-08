@@ -2,10 +2,12 @@
   "id": 1780084527,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-07",
+    "date:cessation_upper": "2022-08-07",
     "date:inception_lower": "2022-08-07",
     "date:inception_upper": "2022-08-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-07",
+    "edtf:cessation": "2022-08-07T10:04:27-07:00",
+    "edtf:inception": "2022-08-07T23:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220807-A-CCA-7282",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N419UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30938389",
+      "swim:gufi": "KL73741100"
+    },
     "wof:country": "US",
     "wof:created": 1659975286,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1780084527,
     "wof:involves": [
+      1763588283,
+      1159283605,
+      1159292085,
       102527513,
       102533795,
-      1159285413,
-      1763588283,
-      1159283605
+      1159285413
     ],
-    "wof:lastmodified": 1659975286,
+    "wof:lastmodified": 1659976391,
     "wof:name": "UA2611 (LAX-SFO)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",
