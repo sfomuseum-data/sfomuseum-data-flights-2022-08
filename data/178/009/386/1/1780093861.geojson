@@ -2,10 +2,12 @@
   "id": 1780093861,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-08-08",
-    "date:inception_upper": "2022-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-08",
+    "date:cessation_lower": "2022-08-09",
+    "date:cessation_upper": "2022-08-09",
+    "date:inception_lower": "2022-08-09",
+    "date:inception_upper": "2022-08-09",
+    "edtf:cessation": "2022-08-09T16:40:30Z",
+    "edtf:inception": "2022-08-09T11:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.617906,
     "lbl:longitude": -122.390944,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220808-A-DLH-7886",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N797UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31021244",
+      "swim:gufi": "KN20912300"
+    },
     "wof:country": "US",
     "wof:created": 1660061614,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -90,9 +103,10 @@
       102530049,
       1159285413,
       1763588447,
-      1159286015
+      1159286015,
+      1159289993
     ],
-    "wof:lastmodified": 1660061614,
+    "wof:lastmodified": 1660062747,
     "wof:name": "UA1829 (EWR-SFO)",
     "wof:parent_id": 1763588447,
     "wof:placetype": "custom",

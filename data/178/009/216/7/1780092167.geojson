@@ -2,10 +2,12 @@
   "id": 1780092167,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-08",
+    "date:cessation_upper": "2022-08-08",
     "date:inception_lower": "2022-08-08",
     "date:inception_upper": "2022-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-08",
+    "edtf:cessation": "2022-08-08T02:47:42-07:00",
+    "edtf:inception": "2022-08-08T15:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "ELY",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220808-A-ELY-9389",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N273AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30981834"
+    },
     "wof:country": "US",
     "wof:created": 1660061181,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -90,9 +103,10 @@
       102533795,
       1159283813,
       1763588143,
-      1159284327
+      1159284327,
+      1377564285
     ],
-    "wof:lastmodified": 1660061181,
+    "wof:lastmodified": 1660062730,
     "wof:name": "AS307 (LAX-SFO)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

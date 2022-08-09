@@ -2,10 +2,12 @@
   "id": 1780097469,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-08",
+    "date:cessation_upper": "2022-08-08",
     "date:inception_lower": "2022-08-08",
     "date:inception_upper": "2022-08-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-08",
+    "edtf:cessation": "2022-08-08T02:45:55Z",
+    "edtf:inception": "2022-08-08T02:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527337,
     "sfomuseum:base_flight_id": "20220808-D-ACA-4362",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30946797",
+      "swim:gufi": "KO00078200"
+    },
     "wof:country": "US",
     "wof:created": 1660062558,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -90,9 +98,10 @@
       102527513,
       1159285413,
       1763588289,
-      1159283597
+      1159283597,
+      1159289407
     ],
-    "wof:lastmodified": 1660062558,
+    "wof:lastmodified": 1660062742,
     "wof:name": "UA2419 (SFO-SBA)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",
