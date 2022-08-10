@@ -2,10 +2,12 @@
   "id": 1780103567,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-10",
+    "date:cessation_upper": "2022-08-10",
     "date:inception_lower": "2022-08-09",
     "date:inception_upper": "2022-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-09",
+    "edtf:cessation": "2022-08-10T00:59:20Z",
+    "edtf:inception": "2022-08-09T20:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31095774"
+    },
     "wof:country": "US",
     "wof:created": 1660148606,
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
@@ -92,7 +97,7 @@
       1763588157,
       1159283717
     ],
-    "wof:lastmodified": 1660148606,
+    "wof:lastmodified": 1660149225,
     "wof:name": "AS743 (SFO-OGG)",
     "wof:parent_id": 1763588157,
     "wof:placetype": "custom",
