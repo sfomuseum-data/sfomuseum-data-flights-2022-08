@@ -2,10 +2,12 @@
   "id": 1780176425,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-10",
+    "date:cessation_upper": "2022-08-10",
     "date:inception_lower": "2022-08-10",
     "date:inception_upper": "2022-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-10",
+    "edtf:cessation": "2022-08-10T23:00:00Z",
+    "edtf:inception": "2022-08-10T22:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-08-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.669650000000004,
     "geom:longitude": -122.2917035,
     "iata:airline": "UA",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531041,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N74856",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +56,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31200167",
+      "swim:gufi": "KO58809400"
+    },
     "wof:country": "US",
     "wof:created": 1660235375,
     "wof:geomhash": "8933d78fb39ee159acf7eb0738f97ef5",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1780176425,
     "wof:involves": [
+      1159289945,
       102531041,
       102527513,
       1159285413,
       1763588319
     ],
-    "wof:lastmodified": 1660235375,
+    "wof:lastmodified": 1660235560,
     "wof:name": "UA2545 (SFO-OAK)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

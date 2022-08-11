@@ -2,10 +2,12 @@
   "id": 1780172625,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-10",
+    "date:cessation_upper": "2022-08-10",
     "date:inception_lower": "2022-08-10",
     "date:inception_upper": "2022-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-10",
+    "edtf:cessation": "2022-08-10T21:58:00Z",
+    "edtf:inception": "2022-08-10T10:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "TP",
     "flysfo:date": "2022-08-10",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31136775"
+    },
     "wof:country": "US",
     "wof:created": 1660234393,
     "wof:geomhash": "d927879de9f350bec45f63af3f2c3973",
@@ -86,7 +91,7 @@
       1159285271,
       1763588445
     ],
-    "wof:lastmodified": 1660234393,
+    "wof:lastmodified": 1660235552,
     "wof:name": "TP237 (LIS-SFO)",
     "wof:parent_id": 1763588445,
     "wof:placetype": "custom",

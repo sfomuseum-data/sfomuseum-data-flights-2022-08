@@ -2,10 +2,12 @@
   "id": 1780173035,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-11",
+    "date:cessation_upper": "2022-08-11",
     "date:inception_lower": "2022-08-10",
     "date:inception_upper": "2022-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-10",
+    "edtf:cessation": "2022-08-11T03:40:00Z",
+    "edtf:inception": "2022-08-10T22:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "icao:base_airline": "BEL",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220810-A-BEL-8823",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N19130",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31200653",
+      "swim:gufi": "KN72093400"
+    },
     "wof:country": "US",
     "wof:created": 1660234503,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1780173035,
     "wof:involves": [
+      1159289939,
       102527513,
       102534365,
       1159285413,
       1763588315,
       1377675597
     ],
-    "wof:lastmodified": 1660234503,
+    "wof:lastmodified": 1660235554,
     "wof:name": "UA523 (JFK-SFO)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

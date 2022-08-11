@@ -2,10 +2,12 @@
   "id": 1780171199,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-11",
+    "date:cessation_upper": "2022-08-11",
     "date:inception_lower": "2022-08-10",
     "date:inception_upper": "2022-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-10",
+    "edtf:cessation": "2022-08-11T01:37:48Z",
+    "edtf:inception": "2022-08-10T21:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31196200"
+    },
     "wof:country": "US",
     "wof:created": 1660234021,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -92,7 +97,7 @@
       1763588143,
       1159283717
     ],
-    "wof:lastmodified": 1660234021,
+    "wof:lastmodified": 1660235550,
     "wof:name": "AS708 (HNL-SFO)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

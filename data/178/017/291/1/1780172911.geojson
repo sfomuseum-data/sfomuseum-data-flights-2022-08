@@ -2,10 +2,12 @@
   "id": 1780172911,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-08-10",
-    "date:inception_upper": "2022-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-10",
+    "date:cessation_lower": "2022-08-11",
+    "date:cessation_upper": "2022-08-11",
+    "date:inception_lower": "2022-08-11",
+    "date:inception_upper": "2022-08-11",
+    "edtf:cessation": "2022-08-11T04:52:00Z",
+    "edtf:inception": "2022-08-11T01:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "SAS",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220810-A-SAS-3945",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N77430",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31122670",
+      "swim:gufi": "KG83998400"
+    },
     "wof:country": "US",
     "wof:created": 1660234471,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1780172911,
     "wof:involves": [
+      1377564285,
       102527513,
       102533631,
       1159285413,
       1763588327,
       1159285129
     ],
-    "wof:lastmodified": 1660234471,
+    "wof:lastmodified": 1660235564,
     "wof:name": "UA2327 (ORD-SFO)",
     "wof:parent_id": 1763588327,
     "wof:placetype": "custom",
