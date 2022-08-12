@@ -2,10 +2,12 @@
   "id": 1780181823,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-11",
+    "date:cessation_upper": "2022-08-11",
     "date:inception_lower": "2022-08-11",
     "date:inception_upper": "2022-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-11",
+    "edtf:cessation": "2022-08-11T16:26:53Z",
+    "edtf:inception": "2022-08-11T13:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F8",
     "flysfo:date": "2022-08-11",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31247219"
+    },
     "wof:country": "US",
     "wof:created": 1660320606,
     "wof:geomhash": "5251ebd94a7bdc5872b19729ff2a2674",
@@ -86,7 +91,7 @@
       1763552143,
       1763588407
     ],
-    "wof:lastmodified": 1660320606,
+    "wof:lastmodified": 1660321994,
     "wof:name": "F8749 (YEG-SFO)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",
