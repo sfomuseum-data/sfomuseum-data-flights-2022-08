@@ -1,0 +1,69 @@
+{
+  "id": 1780184315,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-08-11",
+    "date:inception_upper": "2022-08-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-08-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "NH",
+    "flysfo:date": "2022-08-11",
+    "flysfo:estimated_timestamp": 1660258500,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "NH9643",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-NRT",
+    "flysfo:scheduled_timestamp": 1660264200,
+    "flysfo:timestamp": 1660264200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.755744,140.395257,37.617990",
+    "geom:latitude": 36.686867,
+    "geom:longitude": 9.012156999999995,
+    "iata:airline": "NH",
+    "icao:airline": "ANA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283875,
+    "sfomuseum:arrival_id": 102541685,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20220811-D-ANA-9643",
+    "sfomuseum:flight_number": [
+      "ANA9643",
+      "NH9643"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1660321232,
+    "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1780184315
+      }
+    ],
+    "wof:id": 1780184315,
+    "wof:involves": [
+      102541685,
+      102527513,
+      1159283875,
+      -1
+    ],
+    "wof:lastmodified": 1660321232,
+    "wof:name": "NH9643 (SFO-NRT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.755744,
+    140.395257,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[140.395257,35.755744]],"type":"MultiPoint"}
+}
