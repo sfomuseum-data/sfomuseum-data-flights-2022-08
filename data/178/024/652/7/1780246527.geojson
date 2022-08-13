@@ -2,10 +2,12 @@
   "id": 1780246527,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-13",
+    "date:cessation_upper": "2022-08-13",
     "date:inception_lower": "2022-08-12",
     "date:inception_upper": "2022-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-12",
+    "edtf:cessation": "2022-08-13T03:45:00Z",
+    "edtf:inception": "2022-08-12T22:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31401400"
+    },
     "wof:country": "US",
     "wof:created": 1660406767,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -92,7 +97,7 @@
       1763588139,
       1159283849
     ],
-    "wof:lastmodified": 1660406767,
+    "wof:lastmodified": 1660408330,
     "wof:name": "AS1352 (BOS-SFO)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1780248073,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-12",
+    "date:cessation_upper": "2022-08-12",
     "date:inception_lower": "2022-08-12",
     "date:inception_upper": "2022-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-12",
+    "edtf:cessation": "2022-08-12T02:34:00Z",
+    "edtf:inception": "2022-08-12T01:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-08-12",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31316140"
+    },
     "wof:country": "US",
     "wof:created": 1660407155,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -86,7 +91,7 @@
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1660407155,
+    "wof:lastmodified": 1660408337,
     "wof:name": "WN148 (LAS-SFO)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",
