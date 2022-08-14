@@ -2,10 +2,12 @@
   "id": 1780259693,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-14",
+    "date:cessation_upper": "2022-08-14",
     "date:inception_lower": "2022-08-13",
     "date:inception_upper": "2022-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-13",
+    "edtf:cessation": "2022-08-14T01:27:37Z",
+    "edtf:inception": "2022-08-13T21:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-08-13",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31502275"
+    },
     "wof:country": "US",
     "wof:created": 1660494395,
     "wof:geomhash": "b0d868dab19a217943f06d97e1bf7ce6",
@@ -86,7 +91,7 @@
       1159285591,
       1763588185
     ],
-    "wof:lastmodified": 1660494395,
+    "wof:lastmodified": 1660494673,
     "wof:name": "WN3582 (SFO-MDW)",
     "wof:parent_id": 1763588185,
     "wof:placetype": "custom",

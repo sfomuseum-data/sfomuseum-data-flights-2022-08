@@ -2,10 +2,12 @@
   "id": 1780255165,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-14",
+    "date:cessation_upper": "2022-08-14",
     "date:inception_lower": "2022-08-13",
     "date:inception_upper": "2022-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-13",
+    "edtf:cessation": "2022-08-14T00:05:27Z",
+    "edtf:inception": "2022-08-13T13:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "BA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31450699"
+    },
     "wof:country": "US",
     "wof:created": 1660493244,
     "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
@@ -92,7 +97,7 @@
       1763588411,
       1159283849
     ],
-    "wof:lastmodified": 1660493244,
+    "wof:lastmodified": 1660494674,
     "wof:name": "BA287 (LHR-SFO)",
     "wof:parent_id": 1763588411,
     "wof:placetype": "custom",

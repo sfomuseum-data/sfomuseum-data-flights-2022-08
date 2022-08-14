@@ -2,10 +2,12 @@
   "id": 1780255379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-13",
+    "date:cessation_upper": "2022-08-13",
     "date:inception_lower": "2022-08-13",
     "date:inception_upper": "2022-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-13",
+    "edtf:cessation": "2022-08-13T20:27:00Z",
+    "edtf:inception": "2022-08-13T16:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-08-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526927,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N844DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31468846",
+      "swim:gufi": "KT54662700"
+    },
     "wof:country": "US",
     "wof:created": 1660493299,
     "wof:geomhash": "ae92617dd2aca2afdb0c9096232ff0bb",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1780255379,
     "wof:involves": [
+      1763588239,
+      1377564285,
       102527513,
       102526927,
-      1159284261,
-      1763588239
+      1159284261
     ],
-    "wof:lastmodified": 1660493299,
+    "wof:lastmodified": 1660494675,
     "wof:name": "DL1677 (ATL-SFO)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",
