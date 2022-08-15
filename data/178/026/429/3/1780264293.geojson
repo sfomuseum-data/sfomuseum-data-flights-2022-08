@@ -2,10 +2,12 @@
   "id": 1780264293,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-14",
+    "date:cessation_upper": "2022-08-14",
     "date:inception_lower": "2022-08-14",
     "date:inception_upper": "2022-08-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-14",
+    "edtf:cessation": "2022-08-14T08:21:22Z",
+    "edtf:inception": "2022-08-14T05:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2022-08-14",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "31610938"
+    },
     "wof:country": "US",
     "wof:created": 1660579918,
     "wof:geomhash": "ecfc64ce72b903780fc129f985c12eef",
@@ -50,7 +55,7 @@
       1159285227,
       -1
     ],
-    "wof:lastmodified": 1660579918,
+    "wof:lastmodified": 1660581106,
     "wof:name": "SY8723 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

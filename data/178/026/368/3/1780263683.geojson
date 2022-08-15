@@ -2,10 +2,12 @@
   "id": 1780263683,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-14",
+    "date:cessation_upper": "2022-08-14",
     "date:inception_lower": "2022-08-14",
     "date:inception_upper": "2022-08-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-14",
+    "edtf:cessation": "2022-08-14T15:22:27Z",
+    "edtf:inception": "2022-08-14T13:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F8",
     "flysfo:date": "2022-08-14",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31542293"
+    },
     "wof:country": "US",
     "wof:created": 1660579764,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -86,7 +91,7 @@
       1763552143,
       1763588417
     ],
-    "wof:lastmodified": 1660579764,
+    "wof:lastmodified": 1660581105,
     "wof:name": "F8226 (YVR-SFO)",
     "wof:parent_id": 1763588417,
     "wof:placetype": "custom",

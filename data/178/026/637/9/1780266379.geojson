@@ -2,10 +2,12 @@
   "id": 1780266379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-14",
+    "date:cessation_upper": "2022-08-14",
     "date:inception_lower": "2022-08-14",
     "date:inception_upper": "2022-08-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-14",
+    "edtf:cessation": "2022-08-14T19:52:55Z",
+    "edtf:inception": "2022-08-14T15:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.70629299999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "ASA",
     "icao:base_airline": "FJI",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 1746879047,
     "sfomuseum:base_flight_id": "20220814-D-FJI-5804",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N924VA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31553199"
+    },
     "wof:country": "US",
     "wof:created": 1660580440,
     "wof:geomhash": "df4d5906f2523703f9da91c779be1785",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1780266379,
     "wof:involves": [
+      1763588145,
+      1159283717,
+      1377564297,
       1746879047,
       102527513,
-      1159283813,
-      1763588145,
-      1159283717
+      1159283813
     ],
-    "wof:lastmodified": 1660580440,
+    "wof:lastmodified": 1660581111,
     "wof:name": "AS1001 (SFO-DCA)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",
