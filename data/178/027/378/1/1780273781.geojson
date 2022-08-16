@@ -2,10 +2,12 @@
   "id": 1780273781,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-15",
+    "date:cessation_upper": "2022-08-15",
     "date:inception_lower": "2022-08-15",
     "date:inception_upper": "2022-08-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-15",
+    "edtf:cessation": "2022-08-15T06:03:01-07:00",
+    "edtf:inception": "2022-08-15T19:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61868,
     "lbl:longitude": -122.386556,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220815-A-ANZ-9280",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N77530",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31662800",
+      "swim:gufi": "KL49944200"
+    },
     "wof:country": "US",
     "wof:created": 1660666428,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1780273781,
     "wof:involves": [
-      102527513,
       102533795,
       1159285413,
       1763588275,
-      1159283697
+      1159283697,
+      1159289871,
+      102527513
     ],
-    "wof:lastmodified": 1660666428,
+    "wof:lastmodified": 1660667602,
     "wof:name": "UA1296 (LAX-SFO)",
     "wof:parent_id": 1763588275,
     "wof:placetype": "custom",
