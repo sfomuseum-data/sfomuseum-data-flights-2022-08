@@ -1,0 +1,69 @@
+{
+  "id": 1780281581,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-08-16",
+    "date:inception_upper": "2022-08-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-08-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2022-08-16",
+    "flysfo:estimated_timestamp": 1660719960,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AS9200",
+    "flysfo:gate": "",
+    "flysfo:journey": "OGG-SFO",
+    "flysfo:scheduled_timestamp": 1660717080,
+    "flysfo:timestamp": 1660719960,
+    "geom:area": 0,
+    "geom:bbox": "-156.437877,20.894952,-122.370943,37.617990",
+    "geom:latitude": 29.256470999999998,
+    "geom:longitude": -139.40440999999998,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102532929,
+    "sfomuseum:flight_id": "20220816-A-ASA-9200",
+    "sfomuseum:flight_number": [
+      "ASA9200",
+      "AS9200"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1660752460,
+    "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1780281581
+      }
+    ],
+    "wof:id": 1780281581,
+    "wof:involves": [
+      102527513,
+      102532929,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1660752460,
+    "wof:name": "AS9200 (OGG-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -156.437877,
+    20.894952,
+    -122.370943,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-156.437877,20.894952],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
