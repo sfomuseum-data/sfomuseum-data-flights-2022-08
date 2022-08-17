@@ -2,10 +2,12 @@
   "id": 1780284521,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-16",
+    "date:cessation_upper": "2022-08-16",
     "date:inception_lower": "2022-08-16",
     "date:inception_upper": "2022-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-16",
+    "edtf:cessation": "2022-08-16T17:55:28Z",
+    "edtf:inception": "2022-08-16T14:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:date": "2022-08-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 28.524645999999997,
     "geom:longitude": -110.7258735,
     "iata:airline": "AM",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "lbl:latitude": 37.612048,
     "lbl:longitude": -122.389573,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102536579,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N845AM",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31725653"
+    },
     "wof:country": "US",
     "wof:created": 1660753220,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1780284521,
     "wof:involves": [
+      1763588413,
+      1159289871,
       102536579,
       102527513,
-      1159283539,
-      1763588413
+      1159283539
     ],
-    "wof:lastmodified": 1660753220,
+    "wof:lastmodified": 1660754003,
     "wof:name": "AM699 (SFO-MEX)",
     "wof:parent_id": 1763588413,
     "wof:placetype": "custom",
