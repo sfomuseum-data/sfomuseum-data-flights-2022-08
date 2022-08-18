@@ -2,10 +2,12 @@
   "id": 1780289615,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-17",
+    "date:cessation_upper": "2022-08-17",
     "date:inception_lower": "2022-08-17",
     "date:inception_upper": "2022-08-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-17",
+    "edtf:cessation": "2022-08-17T18:59:15Z",
+    "edtf:inception": "2022-08-17T17:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-08-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.40566,
     "geom:longitude": -122.7750715,
     "iata:airline": "AA",
+    "icao:aircraft": "A319",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102555307,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N753US",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "31943112",
+      "swim:gufi": "KL56883401"
+    },
     "wof:country": "US",
     "wof:created": 1660838523,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1780289615,
     "wof:involves": [
-      102527513,
       102555307,
       1159283849,
-      -1
+      1159289407,
+      102527513
     ],
-    "wof:lastmodified": 1660838523,
+    "wof:lastmodified": 1660840356,
     "wof:name": "AA1719 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
