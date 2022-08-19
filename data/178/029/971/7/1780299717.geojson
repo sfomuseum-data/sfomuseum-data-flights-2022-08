@@ -2,10 +2,12 @@
   "id": 1780299717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-18",
+    "date:cessation_upper": "2022-08-18",
     "date:inception_lower": "2022-08-18",
     "date:inception_upper": "2022-08-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-18",
+    "edtf:cessation": "2022-08-18T01:57:43-07:00",
+    "edtf:inception": "2022-08-18T14:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220818-A-ACA-3947",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N436UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "31917480",
+      "swim:gufi": "KA43119500"
+    },
     "wof:country": "US",
     "wof:created": 1660925739,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -90,9 +104,10 @@
       102526751,
       1159285413,
       1763588353,
-      1159283597
+      1159283597,
+      1159292085
     ],
-    "wof:lastmodified": 1660925739,
+    "wof:lastmodified": 1660926848,
     "wof:name": "UA487 (PHX-SFO)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",
