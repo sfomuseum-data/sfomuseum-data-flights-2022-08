@@ -2,10 +2,12 @@
   "id": 1780309565,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-20",
+    "date:cessation_upper": "2022-08-20",
     "date:inception_lower": "2022-08-19",
     "date:inception_upper": "2022-08-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-19",
+    "edtf:cessation": "2022-08-20T02:20:56Z",
+    "edtf:inception": "2022-08-19T08:16:27-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-08-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.614944,
     "lbl:longitude": -122.383123,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N859DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "32069146",
+      "swim:gufi": "KO76501600"
+    },
     "wof:country": "US",
     "wof:created": 1661012699,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1780309565,
     "wof:involves": [
+      1377564285,
       102526927,
       102527513,
       1159284261,
       1763588237
     ],
-    "wof:lastmodified": 1661012699,
+    "wof:lastmodified": 1661013276,
     "wof:name": "DL726 (SFO-ATL)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",
