@@ -2,10 +2,12 @@
   "id": 1780312111,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-20",
+    "date:cessation_upper": "2022-08-20",
     "date:inception_lower": "2022-08-20",
     "date:inception_upper": "2022-08-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-20",
+    "edtf:cessation": "2022-08-20T23:05:31Z",
+    "edtf:inception": "2022-08-20T21:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -39,6 +41,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +59,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "32156680"
+    },
     "wof:country": "US",
     "wof:created": 1661097849,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -92,7 +101,7 @@
       1763588153,
       1159286475
     ],
-    "wof:lastmodified": 1661097849,
+    "wof:lastmodified": 1661099471,
     "wof:name": "AC566 (YVR-SFO)",
     "wof:parent_id": 1763588153,
     "wof:placetype": "custom",

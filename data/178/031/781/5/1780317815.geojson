@@ -2,10 +2,12 @@
   "id": 1780317815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-21",
+    "date:cessation_upper": "2022-08-21",
     "date:inception_lower": "2022-08-20",
     "date:inception_upper": "2022-08-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-20",
+    "edtf:cessation": "2022-08-21T01:43:00Z",
+    "edtf:inception": "2022-08-20T10:31:52-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-08-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.591019,
     "geom:longitude": -119.2977885,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527733,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N486UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "32249415",
+      "swim:gufi": "KO82140700"
+    },
     "wof:country": "US",
     "wof:created": 1661099280,
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1780317815,
     "wof:involves": [
+      1159292085,
       102527733,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1661099280,
+    "wof:lastmodified": 1661099484,
     "wof:name": "UA2743 (SFO-BOI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
