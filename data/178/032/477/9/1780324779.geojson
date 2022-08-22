@@ -2,10 +2,12 @@
   "id": 1780324779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-22",
+    "date:cessation_upper": "2022-08-22",
     "date:inception_lower": "2022-08-21",
     "date:inception_upper": "2022-08-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-21",
+    "edtf:cessation": "2022-08-22T01:20:22Z",
+    "edtf:inception": "2022-08-21T06:43:42-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:base_flight_id": "20220821-D-DLH-7531",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N772UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "32238585",
+      "swim:gufi": "KO60307100"
+    },
     "wof:country": "US",
     "wof:created": 1661185737,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1780324779,
     "wof:involves": [
+      1763588325,
+      1159286015,
+      1159289985,
       102528817,
       102527513,
-      1159285413,
-      1763588325,
-      1159286015
+      1159285413
     ],
-    "wof:lastmodified": 1661185737,
+    "wof:lastmodified": 1661185975,
     "wof:name": "UA2002 (SFO-IAD)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

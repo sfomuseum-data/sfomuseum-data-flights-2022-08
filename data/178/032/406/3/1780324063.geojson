@@ -2,10 +2,12 @@
   "id": 1780324063,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-22",
+    "date:cessation_upper": "2022-08-22",
     "date:inception_lower": "2022-08-21",
     "date:inception_upper": "2022-08-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-21",
+    "edtf:cessation": "2022-08-22T00:32:34Z",
+    "edtf:inception": "2022-08-21T19:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2022-08-21",
@@ -21,6 +23,7 @@
     "geom:latitude": 35.216654500000004,
     "geom:longitude": -101.1753305,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
@@ -34,7 +37,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N206BZ",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "32235821"
+    },
     "wof:country": "US",
     "wof:created": 1661185558,
     "wof:geomhash": "fb9fc4a2337a533c2fd66b04de641144",
@@ -50,7 +62,7 @@
       1763552131,
       -1
     ],
-    "wof:lastmodified": 1661185558,
+    "wof:lastmodified": 1661185973,
     "wof:name": "MX101 (SFO-CHS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

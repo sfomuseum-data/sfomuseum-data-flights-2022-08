@@ -2,10 +2,12 @@
   "id": 1780324067,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-22",
+    "date:cessation_upper": "2022-08-22",
     "date:inception_lower": "2022-08-21",
     "date:inception_upper": "2022-08-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-21",
+    "edtf:cessation": "2022-08-22T00:25:00Z",
+    "edtf:inception": "2022-08-21T23:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2022-08-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.918857,
     "geom:longitude": -117.0466615,
     "iata:airline": "MX",
+    "icao:aircraft": "E190",
     "icao:airline": "MXY",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292325,
     "sfomuseum:airline_id": 1763552131,
     "sfomuseum:arrival_id": 102532277,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N114BZ",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "32250066"
+    },
     "wof:country": "US",
     "wof:created": 1661185559,
     "wof:geomhash": "855a08f9b6f780333367899da8373a5a",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1780324067,
     "wof:involves": [
-      102532277,
-      102527513,
       1763552131,
-      -1
+      1159292325,
+      102532277,
+      102527513
     ],
-    "wof:lastmodified": 1661185559,
+    "wof:lastmodified": 1661185982,
     "wof:name": "MX602 (SFO-PVU)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
