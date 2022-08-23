@@ -2,10 +2,12 @@
   "id": 1780331763,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-22",
+    "date:cessation_upper": "2022-08-22",
     "date:inception_lower": "2022-08-22",
     "date:inception_upper": "2022-08-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-22",
+    "edtf:cessation": "2022-08-22T08:54:52Z",
+    "edtf:inception": "2022-08-22T04:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "32266576"
+    },
     "wof:country": "US",
     "wof:created": 1661272171,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -92,7 +97,7 @@
       1763588317,
       1159283697
     ],
-    "wof:lastmodified": 1661272171,
+    "wof:lastmodified": 1661272413,
     "wof:name": "UA2097 (SFO-EWR)",
     "wof:parent_id": 1763588317,
     "wof:placetype": "custom",
