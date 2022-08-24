@@ -2,10 +2,12 @@
   "id": 1780336567,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-23",
+    "date:cessation_upper": "2022-08-23",
     "date:inception_lower": "2022-08-23",
     "date:inception_upper": "2022-08-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-23",
+    "edtf:cessation": "2022-08-23T04:27:51-07:00",
+    "edtf:inception": "2022-08-23T17:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-08-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.9389005,
     "geom:longitude": -121.76404,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530507,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N413UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "32467960",
+      "swim:gufi": "KS53862300"
+    },
     "wof:country": "US",
     "wof:created": 1661357775,
     "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1780336567,
     "wof:involves": [
+      1159292085,
       102527513,
       102530507,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1661357775,
+    "wof:lastmodified": 1661358802,
     "wof:name": "UA8186 (RDM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
