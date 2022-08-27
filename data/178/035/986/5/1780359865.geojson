@@ -2,10 +2,12 @@
   "id": 1780359865,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-08-26",
-    "date:inception_upper": "2022-08-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-26",
+    "date:cessation_lower": "2022-08-26",
+    "date:cessation_upper": "2022-08-26",
+    "date:inception_lower": "2022-08-27",
+    "date:inception_upper": "2022-08-27",
+    "edtf:cessation": "2022-08-26T14:12:00Z",
+    "edtf:inception": "2022-08-26T22:57:54-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614944,
@@ -39,6 +42,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N308DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "32652593",
+      "swim:gufi": "KO42963600"
+    },
     "wof:country": "US",
     "wof:created": 1661617448,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -92,7 +105,7 @@
       1763588237,
       1159283539
     ],
-    "wof:lastmodified": 1661617448,
+    "wof:lastmodified": 1661618085,
     "wof:name": "DL1100 (SFO-SLC)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",

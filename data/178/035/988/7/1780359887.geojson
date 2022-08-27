@@ -2,10 +2,12 @@
   "id": 1780359887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-26",
+    "date:cessation_upper": "2022-08-26",
     "date:inception_lower": "2022-08-26",
     "date:inception_upper": "2022-08-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-26",
+    "edtf:cessation": "2022-08-26T10:20:41Z",
+    "edtf:inception": "2022-08-26T16:10:58-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20220826-D-AMX-4285",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N820DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "32635690",
+      "swim:gufi": "KO17463601"
+    },
     "wof:country": "US",
     "wof:created": 1661617453,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1780359887,
     "wof:involves": [
-      102526927,
       102527513,
       1159284261,
       1763588243,
-      1159283539
+      1159283539,
+      1377564285,
+      102526927
     ],
-    "wof:lastmodified": 1661617453,
+    "wof:lastmodified": 1661618092,
     "wof:name": "DL1462 (SFO-ATL)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",
