@@ -2,10 +2,12 @@
   "id": 1780363033,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-27",
+    "date:cessation_upper": "2022-08-27",
     "date:inception_lower": "2022-08-27",
     "date:inception_upper": "2022-08-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-27",
+    "edtf:cessation": "2022-08-27T23:38:00Z",
+    "edtf:inception": "2022-08-27T19:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "32793115"
+    },
     "wof:country": "US",
     "wof:created": 1661702830,
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
@@ -92,7 +97,7 @@
       1763588143,
       1159285043
     ],
-    "wof:lastmodified": 1661702830,
+    "wof:lastmodified": 1661704351,
     "wof:name": "AS1038 (ANC-SFO)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

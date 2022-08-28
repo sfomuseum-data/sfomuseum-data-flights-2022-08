@@ -2,10 +2,12 @@
   "id": 1780364573,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-27",
+    "date:cessation_upper": "2022-08-27",
     "date:inception_lower": "2022-08-27",
     "date:inception_upper": "2022-08-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-27",
+    "edtf:cessation": "2022-08-27T02:50:40-07:00",
+    "edtf:inception": "2022-08-27T15:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220827-A-ACA-5405",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N453UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "32766158",
+      "swim:gufi": "KL43831700"
+    },
     "wof:country": "US",
     "wof:created": 1661703227,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -90,9 +104,10 @@
       102528997,
       1159285413,
       1763588291,
-      1159283597
+      1159283597,
+      1159292085
     ],
-    "wof:lastmodified": 1661703227,
+    "wof:lastmodified": 1661704353,
     "wof:name": "UA1107 (SAN-SFO)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",
