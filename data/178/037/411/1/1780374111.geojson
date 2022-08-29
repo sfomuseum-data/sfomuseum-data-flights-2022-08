@@ -2,10 +2,12 @@
   "id": 1780374111,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-29",
+    "date:cessation_upper": "2022-08-29",
     "date:inception_lower": "2022-08-28",
     "date:inception_upper": "2022-08-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-28",
+    "edtf:cessation": "2022-08-29T02:23:00Z",
+    "edtf:inception": "2022-08-28T21:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "icao:base_airline": "SIA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:base_flight_id": "20220828-D-SIA-1510",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N944JT",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "32886425",
+      "swim:gufi": "KO71683100"
+    },
     "wof:country": "US",
     "wof:created": 1661790353,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1780374111,
     "wof:involves": [
-      102530049,
-      102527513,
       1159284583,
       1763588183,
-      1159286259
+      1159286259,
+      1159289411,
+      102530049,
+      102527513
     ],
-    "wof:lastmodified": 1661790353,
+    "wof:lastmodified": 1661790859,
     "wof:name": "B61982 (SFO-EWR)",
     "wof:parent_id": 1763588183,
     "wof:placetype": "custom",
