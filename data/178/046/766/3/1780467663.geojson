@@ -2,10 +2,12 @@
   "id": 1780467663,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-31",
+    "date:cessation_upper": "2022-08-31",
     "date:inception_lower": "2022-08-31",
     "date:inception_upper": "2022-08-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-08-31",
+    "edtf:cessation": "2022-08-31T21:13:29Z",
+    "edtf:inception": "2022-08-31T20:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "JBU",
     "icao:base_airline": "UAE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20220831-D-UAE-6063",
@@ -53,6 +57,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "33145405"
+    },
     "wof:country": "US",
     "wof:created": 1662049604,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +93,14 @@
     ],
     "wof:id": 1780467663,
     "wof:involves": [
+      1159284333,
+      1159292085,
       102533795,
       102527513,
       1159284583,
-      1763588181,
-      1159284333
+      1763588181
     ],
-    "wof:lastmodified": 1662049604,
+    "wof:lastmodified": 1662050342,
     "wof:name": "B6535 (SFO-LAX)",
     "wof:parent_id": 1763588181,
     "wof:placetype": "custom",
