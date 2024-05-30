@@ -50,6 +50,7 @@
     "wof:geomhash": "24c5d8bcd340273688237ae435bbe348",
     "wof:hierarchy": [
       {
+        "custom_id": 1780086457,
         "flight_id": 1780086457
       }
     ],
@@ -60,11 +61,13 @@
       102527513,
       1159284153
     ],
-    "wof:lastmodified": 1659976395,
+    "wof:lastmodified": 1717040847,
     "wof:name": "CI5129 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

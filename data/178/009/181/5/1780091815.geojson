@@ -40,6 +40,7 @@
     "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
     "wof:hierarchy": [
       {
+        "custom_id": 1780091815,
         "flight_id": 1780091815
       }
     ],
@@ -50,11 +51,13 @@
       1159283697,
       -1
     ],
-    "wof:lastmodified": 1660061091,
+    "wof:lastmodified": 1717040843,
     "wof:name": "NZ1008 (AKL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

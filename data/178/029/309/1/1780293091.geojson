@@ -52,6 +52,7 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
+        "custom_id": 1780293091,
         "flight_id": 1780293091
       }
     ],
@@ -62,11 +63,13 @@
       102527513,
       1159283849
     ],
-    "wof:lastmodified": 1660840381,
+    "wof:lastmodified": 1717040851,
     "wof:name": "AA1719 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
     "wof:hierarchy": [
       {
+        "custom_id": 1780281581,
         "flight_id": 1780281581
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102532929
     ],
-    "wof:lastmodified": 1660753999,
+    "wof:lastmodified": 1717040849,
     "wof:name": "AS9200 (OGG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

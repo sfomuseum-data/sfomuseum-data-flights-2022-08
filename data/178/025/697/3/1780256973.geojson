@@ -49,6 +49,7 @@
     "wof:geomhash": "a7e835886f555fd347028edc152f9d8c",
     "wof:hierarchy": [
       {
+        "custom_id": 1780256973,
         "flight_id": 1780256973
       }
     ],
@@ -59,11 +60,13 @@
       102530009,
       1159285413
     ],
-    "wof:lastmodified": 1660494669,
+    "wof:lastmodified": 1717040852,
     "wof:name": "UA8180 (MSY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

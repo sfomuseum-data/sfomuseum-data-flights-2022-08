@@ -58,6 +58,7 @@
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
     "wof:hierarchy": [
       {
+        "custom_id": 1780031705,
         "flight_id": 1780031705
       }
     ],
@@ -69,11 +70,13 @@
       102549057,
       1159285413
     ],
-    "wof:lastmodified": 1659457974,
+    "wof:lastmodified": 1717040858,
     "wof:name": "UA59 (FRA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

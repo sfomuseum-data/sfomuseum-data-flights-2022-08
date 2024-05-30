@@ -53,6 +53,7 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
+        "custom_id": 1780097709,
         "flight_id": 1780097709
       }
     ],
@@ -63,11 +64,13 @@
       1159289871,
       102555307
     ],
-    "wof:lastmodified": 1660062743,
+    "wof:lastmodified": 1717040848,
     "wof:name": "UA8272 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

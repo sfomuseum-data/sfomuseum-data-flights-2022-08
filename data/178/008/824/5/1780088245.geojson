@@ -49,6 +49,7 @@
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
     "wof:hierarchy": [
       {
+        "custom_id": 1780088245,
         "flight_id": 1780088245
       }
     ],
@@ -59,11 +60,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1659976401,
+    "wof:lastmodified": 1717040848,
     "wof:name": "UA8101 (SFO-RNO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

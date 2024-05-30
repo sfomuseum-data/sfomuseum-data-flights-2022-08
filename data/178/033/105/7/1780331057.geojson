@@ -52,6 +52,7 @@
     "wof:geomhash": "855a08f9b6f780333367899da8373a5a",
     "wof:hierarchy": [
       {
+        "custom_id": 1780331057,
         "flight_id": 1780331057
       }
     ],
@@ -62,11 +63,13 @@
       102527513,
       1763552131
     ],
-    "wof:lastmodified": 1661272407,
+    "wof:lastmodified": 1717040851,
     "wof:name": "MX602 (SFO-PVU)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

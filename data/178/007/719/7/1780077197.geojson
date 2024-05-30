@@ -45,6 +45,7 @@
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
     "wof:hierarchy": [
       {
+        "custom_id": 1780077197,
         "flight_id": 1780077197
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283849
     ],
-    "wof:lastmodified": 1659889045,
+    "wof:lastmodified": 1717040848,
     "wof:name": "AA8943 (SFO-HKG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

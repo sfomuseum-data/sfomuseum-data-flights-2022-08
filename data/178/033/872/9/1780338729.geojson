@@ -40,6 +40,7 @@
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
     "wof:hierarchy": [
       {
+        "custom_id": 1780338729,
         "flight_id": 1780338729
       }
     ],
@@ -50,11 +51,13 @@
       1159284489,
       -1
     ],
-    "wof:lastmodified": 1661358322,
+    "wof:lastmodified": 1717040857,
     "wof:name": "HA456 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

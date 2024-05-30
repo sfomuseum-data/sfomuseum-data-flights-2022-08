@@ -40,6 +40,7 @@
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
     "wof:hierarchy": [
       {
+        "custom_id": 1780317219,
         "flight_id": 1780317219
       }
     ],
@@ -50,11 +51,13 @@
       1159286153,
       -1
     ],
-    "wof:lastmodified": 1661099132,
+    "wof:lastmodified": 1717040855,
     "wof:name": "QR3315 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

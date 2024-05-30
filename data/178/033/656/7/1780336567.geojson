@@ -54,6 +54,7 @@
     "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
     "wof:hierarchy": [
       {
+        "custom_id": 1780336567,
         "flight_id": 1780336567
       }
     ],
@@ -64,11 +65,13 @@
       102530507,
       1159285413
     ],
-    "wof:lastmodified": 1661358802,
+    "wof:lastmodified": 1717040855,
     "wof:name": "UA8186 (RDM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "6d8f05e22cdd419a749a10658572882e",
     "wof:hierarchy": [
       {
+        "custom_id": 1780255995,
         "flight_id": 1780255995
       }
     ],
@@ -58,11 +59,13 @@
       102530129,
       1763552131
     ],
-    "wof:lastmodified": 1660494676,
+    "wof:lastmodified": 1717040851,
     "wof:name": "MX602 (SBD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
     "wof:hierarchy": [
       {
+        "custom_id": 1780285713,
         "flight_id": 1780285713
       }
     ],
@@ -50,11 +51,13 @@
       1159284511,
       -1
     ],
-    "wof:lastmodified": 1660753530,
+    "wof:lastmodified": 1717040853,
     "wof:name": "IB4125 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "07bfd75b358269393c92373b424876ce",
     "wof:hierarchy": [
       {
+        "custom_id": 1780342163,
         "flight_id": 1780342163
       }
     ],
@@ -50,11 +51,13 @@
       1159284349,
       -1
     ],
-    "wof:lastmodified": 1661443781,
+    "wof:lastmodified": 1717040852,
     "wof:name": "BR28 (TPE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-08",
     "wof:superseded_by": [],
     "wof:supersedes": []
